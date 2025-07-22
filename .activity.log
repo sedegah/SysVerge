@@ -14,3 +14,4 @@
 // Add system stats widget
 // Refactor shell interface
 // Improve CLI responsiveness
+// Fix command parser
