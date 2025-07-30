@@ -83,3 +83,4 @@
 // Fix command parser
 // Refactor shell interface
 // Add system stats widget
+// Improve CLI responsiveness
